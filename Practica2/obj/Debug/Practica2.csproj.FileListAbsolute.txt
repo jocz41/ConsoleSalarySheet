@@ -1,0 +1,11 @@
+C:\Users\Sara\Documents\DAM\Desarrollo de Interfaces\Practica 2\Practica2\Practica2\obj\Debug\Practica2.csprojResolveAssemblyReference.cache
+C:\Users\Sara\Documents\DAM\Desarrollo de Interfaces\Practica 2\Practica2\Practica2\obj\Debug\Practica2.csproj.CoreCompileInputs.cache
+C:\Users\Sara\Documents\DAM\Desarrollo de Interfaces\Practica 2\Practica2\Practica2\bin\Debug\Practica2.exe
+C:\Users\Sara\Documents\DAM\Desarrollo de Interfaces\Practica 2\Practica2\Practica2\bin\Debug\Practica2.pdb
+C:\Users\Sara\Documents\DAM\Desarrollo de Interfaces\Practica 2\Practica2\Practica2\obj\Debug\Practica2.exe
+C:\Users\Sara\Documents\DAM\Desarrollo de Interfaces\Practica 2\Practica2\Practica2\obj\Debug\Practica2.pdb
+C:\Users\sara_\Documents\SUBIR GITHUB\DAM\Desarrollo de Interfaces\Practica 2\Practica2\Practica2\bin\Debug\Practica2.exe
+C:\Users\sara_\Documents\SUBIR GITHUB\DAM\Desarrollo de Interfaces\Practica 2\Practica2\Practica2\bin\Debug\Practica2.pdb
+C:\Users\sara_\Documents\SUBIR GITHUB\DAM\Desarrollo de Interfaces\Practica 2\Practica2\Practica2\obj\Debug\Practica2.csprojAssemblyReference.cache
+C:\Users\sara_\Documents\SUBIR GITHUB\DAM\Desarrollo de Interfaces\Practica 2\Practica2\Practica2\obj\Debug\Practica2.exe
+C:\Users\sara_\Documents\SUBIR GITHUB\DAM\Desarrollo de Interfaces\Practica 2\Practica2\Practica2\obj\Debug\Practica2.pdb
